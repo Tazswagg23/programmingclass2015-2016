@@ -1,7 +1,0 @@
-puts "What is the diameter?"
-
-diameter = gets.to_i
-
-radius = diameter / 2
-
-puts "The radius is #{radius}"
