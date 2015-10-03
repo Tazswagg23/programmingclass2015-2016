@@ -4,4 +4,3 @@ How much you make per hour?
 25
 How many weeks you work?
 20
-You would make 8755.
