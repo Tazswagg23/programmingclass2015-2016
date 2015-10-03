@@ -4,4 +4,4 @@ How much do you make per week?
 25
 How many weeks did you?
 10
-
+You would make $5000.
